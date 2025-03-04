@@ -1,4 +1,4 @@
-# Sales Analysis Project
+#  Retail Sales Analysis Project
 
 ##  Project Overview
 This project analyzes retail sales data using SQL to extract insights, improve decision-making, and optimize business strategies.
